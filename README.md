@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=7000&pause=2000&color=03C988&center=true&width=530&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Alberto+Fuentes" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">Soy un apasionado <b>desarrollador de software Full Stack 🚀</b>. Actualmente resido en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/><b>El Ejido</b>, conocido como <em>"El mar de plástico de Europa"</em>. Me encanta aprender y crear aplicaciones web utilizando JavaScript, HTML, PHP, Python, Laravel, CSS y explorar otras bibliotecas y frameworks. Te invito a seguir leyendo para conocer más sobre mí, y no dudes en contactarme si necesitas ayuda o colaboración.</p>
+<p align="center">Soy un apasionado <b>desarrollador de software Full Stack 🚀</b>. Actualmente resido en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>El Ejido</b>, conocido como <em>"El mar de plástico de Europa"</em>. Me encanta aprender y crear aplicaciones web utilizando JavaScript, HTML, PHP, Python, Laravel, CSS y explorar otras bibliotecas y frameworks. Te invito a seguir leyendo para conocer más sobre mí, y no dudes en contactarme si necesitas ayuda o colaboración.</p>
 
 <hr>
 
