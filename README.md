@@ -19,9 +19,6 @@
   <a href="mailto:21albertoff@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-  <a href="https://discord.com/invite/P4a948jR">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
   <a href="https://instagram/albertofuentesfunes/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
