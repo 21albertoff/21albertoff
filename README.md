@@ -27,7 +27,7 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=21albertoff&theme=dark&hide_border=true&border_radius=4.3&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&background=45%2CEB545400%2CEB545400&sideNums=03C988&stroke=D0D0D0&currStreakNum=EB6718&sideLabels=03AD75C6" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rose.vercel.app/?user=21albertoff&theme=dark&hide_border=true&border_radius=4.3&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&background=45%2CEB545400%2CEB545400&sideNums=03C988&stroke=D0D0D0&currStreakNum=EB6718&sideLabels=03AD75C6" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <picture>
