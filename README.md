@@ -35,7 +35,9 @@
     <img src="" />
   </picture>
 </div>
-[![My GitFut card](https://gitfut.com/21albertoff.png)](https://gitfut.com/21albertoff)
+<div align="center">
+    <img with="50px" height="400pem" src="https://gitfut.com/21albertoff.png">
+</div>
 
 
 
